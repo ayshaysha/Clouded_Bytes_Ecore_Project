@@ -3,11 +3,11 @@
 
 # Overview
 
-This repository encapsulates the work completed as part of our exploration into modeling data-oriented web pages. Using the Eclipse Modeling Framework (EMF) and Ecore, we have developed a metamodel that abstracts and represents the structure and relationships inherent in the chosen webpage.
+This repository encapsulates the work completed as part of our exploration into modeling data-oriented web pages. Using the Eclipse Modeling Framework (EMF) and Ecore, I have developed a metamodel that abstracts and represents the structure and relationships inherent in the chosen webpage.
 
 # Web Page under Study
 
-We have selected CloudedBytes ([cloudedbytes.com](https://cloudedbytes.com/)) as the data-oriented web page for this study. CloudedBytes is a tech blog platform rich with varied structures such as articles, categories, authors, comments, and more. This balanced complexity provides an excellent foundation for developing a nuanced Ecore metamodel.
+I have selected [CloudedBytes.com](https://cloudedbytes.com/) as the data-oriented web page for this study. CloudedBytes is a tech blog platform rich with varied structures such as articles, categories, authors, comments, and more. This balanced complexity provides an excellent foundation for developing a nuanced Ecore metamodel.
 
 # Assignment Objectives
 
@@ -24,7 +24,7 @@ The main objectives of this assignment were to:
 1. Ecore Model: Located in "CloudedBytes\model\cloudedBytes.ecore", this file represents the high-level structure and relationships identified in the CloudedBytes web page.
 2. Generated Java Code: The Java classes generated from the Ecore model can be found at "CloudedBytes\src\cloudedBytes". This code serves as the backbone for potential applications or further research based on the model.
 3. Instances: Representative instances that demonstrate the applicability and flexibility of the metamodel can be found in "CloudedBytes\model\Dynamic Instances".
-4. Screenshots: For a visual comparison, we've included screenshots of CloudedBytes, highlighting the areas under study. Check them out in the Screenshots folder at path "CloudedBytes\model\Dynamic Instances\Screenshots".
+4. Screenshots: For a visual comparison, I've included screenshots of CloudedBytes, highlighting the areas under study. Check them out in the Screenshots folder at path "CloudedBytes\model\Dynamic Instances\Screenshots".
 
 # Class Diagram
 
