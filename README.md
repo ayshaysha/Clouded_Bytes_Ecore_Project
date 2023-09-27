@@ -7,7 +7,7 @@ This repository encapsulates the work completed as part of our exploration into 
 
 # Web Page under Study
 
-We have selected CloudedBytes ([CloudedBytes.com](cloudedbytes.com)) as the data-oriented web page for this study. CloudedBytes is a tech blog platform rich with varied structures such as articles, categories, authors, comments, and more. This balanced complexity provides an excellent foundation for developing a nuanced Ecore metamodel.
+We have selected CloudedBytes ([cloudedbytes.com](https://cloudedbytes.com/)) as the data-oriented web page for this study. CloudedBytes is a tech blog platform rich with varied structures such as articles, categories, authors, comments, and more. This balanced complexity provides an excellent foundation for developing a nuanced Ecore metamodel.
 
 # Assignment Objectives
 
